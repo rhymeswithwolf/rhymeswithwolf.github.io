@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Proof Point Repository</h1>
-<p>Let's add some proof points!</p>
+<h1>Let's test linking</h1>
+<p>did it work?</p>
 
 <p>For information, contact Gabriel Wolf (gwolf@enernoc.com)</p>
-
-
 <a href="http://rhymeswithwolf.github.io">Go Home</a>
 </body>
 </html>
